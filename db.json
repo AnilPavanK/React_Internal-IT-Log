@@ -8,13 +8,6 @@
       "id": 1
     },
     {
-      "id": 2,
-      "message": "Fixed hard drive on workstation 002",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2019-11-06T23:33:38.838Z"
-    },
-    {
       "message": "1122 wireless down",
       "attention": true,
       "tech": "Sara Wilson",

@@ -3,8 +3,7 @@ import {
   ADD_TECH,
   DELETE_TECH,
   SET_LOADING,
-  TECHS_ERROR,
-  DELETE_LOG
+  TECHS_ERROR
 } from './types';
 
 // Get techs from server

@@ -4,7 +4,7 @@
       "message": "Changed network card in server 007",
       "attention": false,
       "tech": "Sam Smith",
-      "date": "2019-05-31T15:46:10.179Z",
+      "date": "2019-11-06T22:18:16.791Z",
       "id": 1
     },
     {
@@ -12,21 +12,14 @@
       "message": "Fixed hard drive on workstation 002",
       "attention": false,
       "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
+      "date": "2019-11-06T23:33:38.838Z"
     },
     {
-      "id": 3,
       "message": "1122 wireless down",
       "attention": true,
       "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z"
-    },
-    {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
+      "date": "2019-11-06T22:18:52.658Z",
+      "id": 3
     }
   ],
   "techs": [
